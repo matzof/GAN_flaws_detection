@@ -3,3 +3,6 @@
 data/
 desktop.ini
 logs
+models/
+training_checkpoints/
+.ipynb_checkpoints/
